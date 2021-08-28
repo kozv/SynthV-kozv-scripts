@@ -14,3 +14,9 @@ A script that duplicates the selected note next to it.
 場所： ノート編集 - ノートの複製  
 Place: edit note - Duplicate note  
 
+I made it because it is difficult to double-click when creating a note.
+
+After completion, I discovered a function to switch between pencil and pitch editing in conjunction with each other.
+
+The procedure is cleaner if you don't use this script.
+
